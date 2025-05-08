@@ -34,7 +34,7 @@ std::vector<float> DepthBuffer(WIDTH* HEIGHT, 1e9f);
 std::vector<float> OutputImage(WIDTH* HEIGHT * 3, 0.0f);
 
 void create_scene() {
-    int width = 32;
+    int width = 26;
     int height = 16;
     float theta, phi;
 
