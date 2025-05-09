@@ -21,18 +21,20 @@ and if you want an explanation of the code, scroll down below.
 
 3. Unzip a download file
 
-![image](https://github.com/user-attachments/assets/02ce25e2-37ec-4fe7-823b-380dabb302b4)
+![image](https://github.com/user-attachments/assets/a5d0b5b4-ca2e-476f-927b-c7776b0d996f)
+
 
 
 3. Open hw2_Q1-master. Double click hw2_Q1-master and opne OpenglViewer.sln
 
-![image](https://github.com/user-attachments/assets/1bf5961d-c697-4b59-98bf-85451fbdbbcb)
+![image](https://github.com/user-attachments/assets/167dea26-bd07-4600-8694-6e796fed85f1)
 
 
 
 5. click "F5" on your keybord. Then you will get the result.
 
-![image](https://github.com/user-attachments/assets/592f3dd3-35b4-4229-a20d-2478eec89a18)
+![image](https://github.com/user-attachments/assets/3ccf0a60-e349-4a03-99b6-688749ccf6b9)
+
 
 
 ## Code explanation
